@@ -1,0 +1,27 @@
+  * {
+    background-color: rgb(150, 233, 208);
+}
+
+  h1 {
+    color: rgb(51, 58, 153);
+    text-align: center
+}
+
+  h2 {
+    color: rgb(68, 33, 104);
+    text-align: center;
+}
+
+  img {
+    border-radius: 8px;
+    margin: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+  a {
+    font-size: 23px;
+    margin-left: 50px;
+}

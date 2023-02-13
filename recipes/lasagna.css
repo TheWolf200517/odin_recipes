@@ -1,0 +1,34 @@
+  * {
+    background-color: antiquewhite;
+}
+
+  h1 {
+    text-align: center;
+    color: rgb(165, 125, 49);
+}
+
+  h2 {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(5, 121, 189);
+}
+
+  h3 {
+    margin-left: 100px;
+}
+
+  img {
+    border-radius: 8px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto
+}
+
+  li {
+    font-size: large;
+}
+
+  a {
+    font-size: 20px;
+    margin-left: 20px;
+  }
